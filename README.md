@@ -1,4 +1,4 @@
-👋 Hi there, I'm Aliyu Yusuf
+👋 Hi, I'm Aliyu Yusuf
 
 I'm a passionate Software Engineer from Kaduna State, Nigeria driven by the desire to solve real-world problems through technology and language.
 
