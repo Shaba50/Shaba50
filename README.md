@@ -1,14 +1,28 @@
-👋 Hi, I’m Aliyu Yusuf
+👋 Hi there, I'm Aliyu Yusuf
 
-I'm a passionate Software Engineer from Kaduna State, Nigeria. I love programming and building solutions that make a real impact.
+I'm a passionate Software Engineer from Kaduna State, Nigeria driven by the desire to solve real-world problems through technology and language.
 
-💻 I specialize in software development and enjoy learning new technologies.
+🚀 What I Do
+- 💻 Full-stack Software Development  
+- 🌍 Founder of [SmartFix Devs](#) – a volunteer tech group solving real-world challenges  
 
-💞️ I’m looking to collaborate with other developers especially on open-source projects like Wikipedia and similar initiatives.
+🌐 Open-source contributor: Wikimedia, Mozilla, OpenStreetMap, and more  
+- 📚 Linguist, Translator & Proofreader (Hausa community)  
 
-📫 Reach me at aliyuy921@gmail.com 
+🧠 Advocate for digital inclusion, indigenous language tech, and climate resilience  
 
-<!---
-Shaba50/Shaba50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🏆 Participant – UN TECH HACKATHON 2025  
+
+💞️ I’m Looking to Collaborate On:
+- Open-source and humanitarian tech projects  
+
+Language preservation and digital accessibility  
+
+Climate and disaster response tools 
+ 
+Education and community focused innovation  
+
+📫 Get in Touch
+📧 aliyuy921@gmail.com
+Let’s collaborate and build something impactful.
 --->
